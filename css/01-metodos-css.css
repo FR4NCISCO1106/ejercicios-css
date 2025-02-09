@@ -4,3 +4,8 @@ div {
   font-size: 22px;
   font-weight: bold;
 }
+
+button :hover{
+  color: crimson;
+  font-size: large;
+}
