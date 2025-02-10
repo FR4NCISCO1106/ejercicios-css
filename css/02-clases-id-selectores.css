@@ -1,32 +1,24 @@
-p{
-  background-color: pink;
+.impar{
 
+  background-color: rgb(240, 156, 170);
+  font-family: sans-serif
 }
 
-li{
-  font-family: sans-serif;
-
-}
-/**
-div{
-  color: blue;
+#par{
+  color: rgb(41, 41, 246);
   font-size: 36px;
+}
 
-div{
-  background-color: greenyellow;
-  font-weight: bold;
+.impar.imparr2{
   font-size: 24px;
-}
-**/
 
-span{
-  font-size: 24px;
 }
 
-div span{ 
-  background-color: greenyellow;
-  font-weight: bold;
-}
+  #par.par2{
+    background-color: rgb(128, 255, 78);
+    font-size: 24px;
+    font-weight: bold;
+  }
 
 button :hover{
   color: green;

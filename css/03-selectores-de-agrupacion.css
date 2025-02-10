@@ -1,0 +1,23 @@
+.impar.hola{
+  background-color: black;
+  color: white;
+  font-size: 28px;
+
+}
+
+.impar.hola2{
+  background-color: yellow;
+  color: rgb(0, 0, 0);
+  font-size: 28px;
+
+}
+
+
+button :hover{
+  color:peru;
+  font-size:large;
+}
+
+button{
+  font-family:Helvetica, sans-serif;
+}
