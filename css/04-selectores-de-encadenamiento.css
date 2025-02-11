@@ -1,0 +1,16 @@
+.avatar.proportioned{
+  width: 300px;
+  height: bold;
+
+}
+
+.avatar.distorcioned{
+  width: 200px;
+  height:400px ;
+}
+
+
+button :hover{
+  color: rgb(34, 255, 237);
+  font-size:large;
+}

@@ -1,0 +1,12 @@
+div{
+  background-color: yellow;
+color: red;
+font-size: 20px;
+text-align: center;
+}
+
+
+button :hover{
+  color: deeppink;
+  font-size:large;
+}
