@@ -1,14 +1,20 @@
 .F1{
   background-color: black;
   color: white;
-
+  font-family:Helvetica, sans-serif;
+  font-size: 28px;
 }
+
+
 
 .F2{
   background-color: yellow;
   color: rgb(0, 0, 0);
-  
+  font-family:Helvetica, sans-serif;
+  font-size: 28px;
 }
+  
+
 
 
 button :hover{
@@ -16,7 +22,3 @@ button :hover{
   font-size:large;
 }
 
-.FF,.F1,.F2{
-  font-family:Helvetica, sans-serif;
-  font-size: 28px;
-}
